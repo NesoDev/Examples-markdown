@@ -1,4 +1,9 @@
-| 💻 **Technology** | 🚀 **Projects** |
-|-------------------|-----------------|
-| [![Golang](Image URL for Golang badge)](Hyperlink URL for Golang) | [![fgh](Image URL for fgh badge)](Hyperlink URL for fgh) [![gh_fsync](Image URL for gh_fsync badge)](Hyperlink URL for gh_fsync) [![nuke](Image URL for nuke badge)](Hyperlink URL for nuke) |
-| [![Python](Image URL for Python badge)](Hyperlink URL for Python) | [![profile_stack](Image URL for profile_stack badge)](Hyperlink URL for profile_stack) [![Contribution-Hat](Image URL for Contribution-Hat badge)](Hyperlink URL for Contribution-Hat) |
+| **col 1** | **col 2** | **col 3** | **...** |
+|-----------|-----------|-----------|-----------|
+| row1 col1 | row1 col2 | row1 col3 | row1 col? |
+|-----------|-----------|-----------|-----------|
+| row2 col1 | row2 col2 | row2 col3 | row2 col? |
+|-----------|-----------|-----------|-----------|
+| row3 col1 | row3 col2 | row3 col3 | row3 col? |
+|-----------|-----------|-----------|-----------|
+| row? col1 | row? col2 | row? col3 | row? col? |
